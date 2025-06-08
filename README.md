@@ -1,16 +1,27 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Komaldhiman0704/komaldhiman0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Komal.  
+I'm a final-year B.Tech student in Artificial Intelligence and Machine Learning (AIML).
 
-Here are some ideas to get you started:
+I’m currently pursuing a Data Science course to improve my skills in Python, machine learning, and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve worked on projects like **Nexa Assistant**, a voice-based AI assistant using Python, OpenAI, and SpeechRecognition.
+
+### Skills:
+- Programming: Python, Sql
+- Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
+- Tools: Jupyter Notebook, Google Colab, PyAutoGUI
+
+### Bootcamps Attended:
+- Python Programming
+- Data Science using Python
+
+### Interests:
+- Machine Learning
+- Deep Learning
+- Voice Assistant Projects
+- Data Visualization
+
+### Contact:
+- GitHub: https://github.com/komaldhiman0704
+- LinkedIn: https://www.linkedin.com/in/komal-021b92285/
