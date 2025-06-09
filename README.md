@@ -9,7 +9,7 @@ I’ve worked on projects like **Nexa Assistant**, a voice-based AI assistant us
 
 ### Skills:
 - Programming: Python, Sql
-- Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
+- Libraries: NumPy, Pandas, Matplotlib
 - Tools: Jupyter Notebook, Google Colab, PyAutoGUI
 
 ### Bootcamps Attended:
