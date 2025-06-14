@@ -5,7 +5,7 @@ I'm a final-year B.Tech student in Artificial Intelligence and Machine Learning 
 
 I’m currently pursuing a Data Science course to improve my skills in Python, machine learning, and data analysis.
 
-I’ve worked on projects like **Nexa Assistant**, a voice-based AI assistant using Python, OpenAI, and SpeechRecognition .
+I’ve worked on projects like **Nexa Assistant**, a voice-based AI assistant using Python, OpenAI, and SpeechRecognition 
 
 ### Skills:
 - Programming: Python, Sql
