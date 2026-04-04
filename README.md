@@ -39,14 +39,16 @@ With strong fundamentals in **Python**, **data science**, and **machine learning
 
 ## 🏆 Featured Projects
 
-### 🎤 Nexa Assistant
-**Voice-Based Conversational AI System**
+🏆 Featured Projects
+📄 PDF AI Chatbot (Latest 🚀)
 
-> An intelligent AI assistant that processes natural language through voice input and provides contextually relevant responses with advanced NLP capabilities.
+AI chatbot for interacting with PDF documents using LLMs
 
-- **Tech Stack:** Python • OpenAI API • SpeechRecognition • NLP
-- **Key Features:** Real-time voice processing, contextual understanding, multi-turn conversations
-- **Status:** ✅ Completed
+📂 Upload PDFs & ask questions
+🧠 Semantic search using embeddings
+⚡ Fast, context-aware answers
+
+🛠 Python • Streamlit • LangChain • FAISS • OpenAI
 
 ---
 
