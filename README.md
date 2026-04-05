@@ -1,4 +1,4 @@
-# <div align="center">👋 Komal Dhiman</div>
+# <div align="center">👋 Komal </div>
 
 <div align="center">
 
