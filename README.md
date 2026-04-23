@@ -1,7 +1,5 @@
-# Komal Dhiman
-
-**AI/ML Engineer | Applied Machine Learning | Data Systems**
-
+# <div align="center">👋 Komal </div> <div align="center"> 
+### 🚀 AI/ML Engineer | Data Scientist | Researcher
 [GitHub](https://github.com/Komaldhiman0704) • [LinkedIn](https://www.linkedin.com/in/komal-021b92285/) • [Email](mailto:komaldhiman0704@gmail.com)
 
 ---
